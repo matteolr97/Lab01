@@ -10,6 +10,7 @@ public class Parole {
 	
 	public void addParola(String p) {
 		//TODO
+	
 	}
 	
 	public List<String> getElenco() {
